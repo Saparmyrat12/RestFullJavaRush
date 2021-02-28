@@ -9,7 +9,6 @@ import spring.study.demo.models.Client;
 import spring.study.demo.service.ClientService;
 
 import java.util.List;
-
 @RestController
 public class ClientController {
 
